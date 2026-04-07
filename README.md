@@ -1,4 +1,4 @@
-<h1 align="center">Dasbeoard Cluster</h1>
+<h1 align="center">Dashboard Cluster</h1>
 <p align="center">
   <img src="https://img.shields.io/badge/Status-Work_in_Proggres-lightgray?style=for-the-badge" alt="Status">
   <img src="https://img.shields.io/badge/Unelte-KiCad-blue?style=for-the-badge" alt="Tools">
